@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--suppress JavaFxDefaultTag -->
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.italiandudes.pcbuilderui.client.javafx.controllers.ControllerSceneLoading">
+   <children>
+      <ImageView fitHeight="360.0" fitWidth="640.0" pickOnBounds="true">
+         <image>
+            <Image url="@../gif/loading.gif" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
